@@ -1,0 +1,7 @@
+#train and val datasets (image directory or *.txt file with image paths)
+train: /home/jamie/yolov5/yolov5/data/images/train
+val: /home/jamie/yolov5/yolov5/data/images/val
+# number of classes
+nc: 1
+# class names
+names: ['dartboard']
